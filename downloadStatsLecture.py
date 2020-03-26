@@ -55,4 +55,4 @@ while True:
 
     print("\nProcess complete!\n")
     print("Last check at - " + time.asctime() + '\n')
-    time.sleep(18000)
+    time.sleep(10800)
